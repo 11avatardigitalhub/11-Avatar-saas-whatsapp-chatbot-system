@@ -1,4 +1,4 @@
-# Misayan SaaS - Multi-tenant WhatsApp Business Platform
+# 11 Avatar SaaS - Multi-tenant WhatsApp Business Platform
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Node](https://img.shields.io/badge/node-%3E%3D18.0.0-green.svg)
@@ -105,7 +105,7 @@ For detailed instructions, please refer to the documentation included in this pa
 ## Support
 
 For support inquiries, please use the support tab on CodeCanyon or contact us at:
-- Email: support@saas.misayan.cloud
+- Email: support@11avatardigitalhub.cloud
 
 ## Changelog
 
@@ -122,6 +122,5 @@ Please refer to `upload/CHANGELOG.md` for version history and updates.
 
 ---
 
-**Thank you for purchasing Misayan SaaS!**
-
+**Thank you for purchasing 11 Avatar SaaS!**
 If you like this product, please consider leaving a rating on CodeCanyon. Your feedback helps us improve and create better products.
