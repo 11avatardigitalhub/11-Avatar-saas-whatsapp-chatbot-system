@@ -1,6 +1,6 @@
 # License Terms
 
-## Misayan SaaS - Multi-tenant WhatsApp Business Platform
+## 11 Avatar - Multi-tenant WhatsApp Business Platform
 
 This license is a legal agreement between you (the "Licensee") and the author of Misayan SaaS (the "Licensor") for the use of Misayan SaaS software (the "Software").
 
@@ -97,7 +97,7 @@ Refunds are handled according to Envato Market's refund policy. Please review th
 
 For licensing questions or support:
 - CodeCanyon Support Tab
-- Email: support@saas.misayan.cloud
+- Email: support@11avatardigitalhub.cloud
 
 ---
 
